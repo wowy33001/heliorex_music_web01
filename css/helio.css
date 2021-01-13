@@ -1,0 +1,57 @@
+body{
+    background-color: white;
+    margin: 10px auto;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 20px;
+}
+
+/* header styles */
+
+header{
+    text-align: center;
+}
+
+header h1{
+    color: red;
+    font-size: 50px;
+
+}
+
+header img{
+    width: 1200px;
+    border: 2px solid rgb(0, 217, 255);
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 10px 20px 20px;
+}
+
+main img{
+    max-width: 100%;
+}
+
+h2{
+    font-size: 30px;
+    color: black;
+}
+
+a{
+    color: red;
+}
+a:hover{
+    color: white;
+    background-color: orangered;
+}
+
+footer{
+    background-color: red;
+    text-align: center;
+    color:gray;
+    padding: 20px
+}
+
+footer p{
+    margin: 0;
+}
